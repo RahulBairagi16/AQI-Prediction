@@ -70,7 +70,7 @@ Model performance was measured using the R² score, with the following results:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vinimesh-Shakya/AQI-prediction-project
+   git clone https://github.com/rahulbairagi/AQI-Prediction.git
    ```
 2. Run the notebook using Jupyter Notebook or JupyterLab.
    ```bash
